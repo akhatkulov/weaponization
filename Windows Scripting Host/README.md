@@ -18,4 +18,4 @@ Birinchi qatorda **Dim** orqali `message` o‘zgaruvchisini e’lon qildik. Keyi
 
 Shundan so‘ng, **wscript** yordamida **hello.vbs** faylini ishga tushiramiz. Natijada ekranda *"Welcome to THM"* degan yozuvli Windows xabar oynasi paydo bo‘ladi.
 
-![]()
+![](https://raw.githubusercontent.com/akhatkulov/weaponization/refs/heads/main/Windows%20Scripting%20Host/Windows%20Scripting%20Host.png)
